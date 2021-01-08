@@ -1,0 +1,1 @@
+CREATE DATABASE Library_Managment_System;
